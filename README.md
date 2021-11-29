@@ -9,14 +9,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonalbuquerque&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="SLADE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="SLADE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
 </div>
   </div>
 ##
   <div>
-<img align="right" alt="Sladec" height="180px" width="180px" src="https://cdn.discordapp.com/attachments/884455625902391348/914891030220906516/Webp.net-gifmaker.gif">
+<img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
 
 </div>
 <!--
