@@ -18,7 +18,6 @@
   <div>
 <img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
   
-  ![Snake animation](https://github.com/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>
