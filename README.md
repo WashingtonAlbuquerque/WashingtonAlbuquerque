@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    ![Snake animation](https://github.com/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/washingtonalbuquerque/washingtonalbuquerque/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
