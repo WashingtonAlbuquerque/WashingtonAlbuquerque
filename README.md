@@ -17,7 +17,7 @@
 ##
   <div>
 <img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
-
+  ![Snake animation](https://github.com/rafaballerini/washingtonalbuquerque/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **WashingtonAlbuquerque/WashingtonAlbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
