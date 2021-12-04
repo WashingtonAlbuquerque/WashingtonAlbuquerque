@@ -26,6 +26,6 @@
 ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
 <div>
   
-  <img align="center" alt="SLADE-PHOTOSHOP" height="10%" width="10%" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
+  <img  alt="SLADE-PHOTOSHOP" height="20%" width="20%" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
   
   </div
