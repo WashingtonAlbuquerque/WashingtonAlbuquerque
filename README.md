@@ -21,8 +21,8 @@
 
   <div>
 <img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
-   <img align="left" alt="SLADE-PHOTOSHOP" height="20%" width="20%" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
-</div>
+  <!-- <img align="left" alt="SLADE-PHOTOSHOP" height="20%" width="20%" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
+</div> -->
 
 
 ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
