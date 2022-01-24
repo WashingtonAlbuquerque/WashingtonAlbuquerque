@@ -1,7 +1,7 @@
 ### Ola eu sou WashingtonAlbuquerque
 
 - ✌ Estudando front-end 
-- 😁 Estudando Java Script no momento 
+- 🎨 Estudando Java Script no momento 
 
 <div align="center">
   <a href="https://github.com/WashingtonAlbuquerque">
