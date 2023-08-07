@@ -6,6 +6,7 @@
 <div align="center">
   <a href="https://github.com/WashingtonAlbuquerque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=washingtonalbuquerque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <span><img align= "center" alt="sonic" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif"></span>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonAlbuquerque&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -27,8 +28,7 @@
 <hr>
 
 ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
-![image](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/assets/92453336/ba9a4c0e-4865-46f3-a274-59d18b3f3a3a)
-<img align= "center" alt="sonic" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif">
+
 
 
 
