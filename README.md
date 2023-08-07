@@ -27,4 +27,6 @@
 <hr>
 
 ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="sonic" src="![image](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/assets/92453336/ba9a4c0e-4865-46f3-a274-59d18b3f3a3a)"
+
 
