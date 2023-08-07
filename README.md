@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/WashingtonAlbuquerque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=washingtonalbuquerque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align= "center" alt="sonic" height="40" width="50" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonAlbuquerque&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -23,7 +22,7 @@
 
   <div>
 <img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
-   <img align="right" alt="SLADE-PHOTOSHOP" height="20%" width="20%" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
+ <img align= "center" alt="sonic" height="40" width="50" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif">
 </div> 
 <hr>
 
