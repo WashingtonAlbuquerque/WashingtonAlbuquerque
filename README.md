@@ -22,7 +22,22 @@
 
   <div>
 <img align="right" alt="Sladec" height="180px" width="180px" src="https://media.discordapp.net/attachments/884455625902391348/914895470269173850/Webp.net-gifmaker_1.gif?width=465&height=465">
- <img align= "center" alt="sonic" height="40" width="50" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif">
+ <img  class="sonic" align= "center" alt="sonic" height="40" width="50" src="https://thumbs.gfycat.com/MiserlyUncomfortableCusimanse-max-1mb.gif">
+    <style>
+  
+  .sonic{
+  animation-name: run
+  }
+    @keyframes run {
+    0% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+</style>
 </div> 
 <hr>
 
