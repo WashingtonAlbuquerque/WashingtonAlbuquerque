@@ -3,7 +3,7 @@
 - ✌ Estudando Front End
 - 🎨 Estudando Java Script & React no momento
 - 
-
+<h1> Linguagens </h1>
 <div align="center">
   <a href="https://github.com/WashingtonAlbuquerque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=washingtonalbuquerque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
