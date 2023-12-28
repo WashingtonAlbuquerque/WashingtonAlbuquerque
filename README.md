@@ -35,7 +35,7 @@
 </div> 
 <hr>
 
-<!--  ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/WashingtonAlbuquerque/WashingtonAlbuquerque/blob/output/github-contribution-grid-snake.svg) 
 
 
 
