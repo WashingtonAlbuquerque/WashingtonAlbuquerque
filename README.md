@@ -1,8 +1,8 @@
 ### Ola eu sou WashingtonAlbuquerque
 
-- ✌ Estudando Front End
-- 🎨 Estudando Java Script & React no momento
-- UI/Web Design
+- ✨ Estudando Front End
+- 🔥 Estudando Java Script & React no momento
+- 💫 UI/Web Design
 
 <div align="center">
   <a href="https://github.com/WashingtonAlbuquerque">
